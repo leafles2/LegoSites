@@ -1,0 +1,59 @@
+body {
+    margin-top: 0px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #ccc url(../assets/slogan.jpg) no-repeat fixed center;
+}
+
+
+nav {
+    background-color: #039;
+    width: 895px;
+    height: 30px;
+    padding-top: 10px;
+    padding-right: 5px;
+}
+
+nav div {
+    width: 200px;
+    height: 200px;
+}
+
+header {
+    width: 900px;
+    min-height: 350px;
+    max-height: 400px;
+    margin-top: 10px;
+    background-image: url(../pictures/home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+article {
+    width: 890px;
+    padding: 55px 5px 5px 4px;
+    background-color: rgba(255,255,255,.5);
+    height: 900px;
+    overflow: auto;
+    margin-top: -50px;
+}
+
+footer{
+    width: 880px;
+    padding: 10px;
+    height: 30px;
+    background-color: #555;
+    border-radius: 0 0 5px 5px ;
+}
+
+
+
+
+div .logo {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -35px;
+    right: -10px;
+}
